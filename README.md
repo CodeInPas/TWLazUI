@@ -83,8 +83,6 @@ Before installing this package, ensure your Lazarus meets the following requirem
 
 1. Download or *Clone* this repository to your computer:
 
-```bash
-git clone https://github.com/your_username/TWLazUI-lcl-components.git
 
 ```
 
