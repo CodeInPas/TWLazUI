@@ -112,7 +112,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ## 🙌 Acknowledgments
 
-* [TWLazUI CSS](https://Tailwindcss.com/) - For the incredible design system inspiration, color palettes, and aesthetics.
+* [Tailwind CSS](https://Tailwindcss.com/) - For the incredible design system inspiration, color palettes, and aesthetics.
 * [BGRABitmap](https://wiki.freepascal.org/BGRABitmap) - An amazing graphics library that enables transparent rendering and anti-aliasing in Lazarus.
 * [streamlinehq](https://www.streamlinehq.com/icons/tabler-line?search=button&icon=ico_m1dJb9k6hjHfcTMP) - Visual icon references for the Component Palette.
 
