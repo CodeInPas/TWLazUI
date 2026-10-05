@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="5">
+    <Name Value="twlazui_components"/>
+    <Type Value="RunAndDesignTime"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <SearchPaths>
+        <IncludeFiles Value="src;src/core;src/display;src/feedback;src/inputs;src/navigation;src/layout;src/data;src/overlays"/>
+        <OtherUnitFiles Value="src;src/core;src/display;src/feedback;src/inputs;src/navigation;src/layout;src/data;src/overlays;src/buttons"/>
+        <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+    </CompilerOptions>
+    <Files>
+      <Item>
+        <Filename Value="src/core/TwLazUI.Types.pas"/>
+        <UnitName Value="TwLazUI.Types"/>
+      </Item>
+      <Item>
+        <Filename Value="src/core/TwLazUI.Colors.pas"/>
+        <UnitName Value="TwLazUI.Colors"/>
+      </Item>
+      <Item>
+        <Filename Value="src/core/TwLazUI.Utils.pas"/>
+        <UnitName Value="TwLazUI.Utils"/>
+      </Item>
+      <Item>
+        <Filename Value="src/core/TwLazUI.Graphics.pas"/>
+        <UnitName Value="TwLazUI.Graphics"/>
+      </Item>
+      <Item>
+        <Filename Value="src/display/TwLazUI.Badge.pas"/>
+        <UnitName Value="TwLazUI.Badge"/>
+      </Item>
+      <Item>
+        <Filename Value="src/display/TwLazUI.Avatar.pas"/>
+        <UnitName Value="TwLazUI.Avatar"/>
+      </Item>
+      <Item>
+        <Filename Value="src/display/TwLazUI.ProgressBar.pas"/>
+        <UnitName Value="TwLazUI.ProgressBar"/>
+      </Item>
+      <Item>
+        <Filename Value="src/feedback/TwLazUI.Alert.pas"/>
+        <UnitName Value="TwLazUI.Alert"/>
+      </Item>
+      <Item>
+        <Filename Value="src/feedback/TwLazUI.Spinner.pas"/>
+        <UnitName Value="TwLazUI.Spinner"/>
+      </Item>
+      <Item>
+        <Filename Value="src/feedback/TwLazUI.Skeleton.pas"/>
+        <UnitName Value="TwLazUI.Skeleton"/>
+      </Item>
+      <Item>
+        <Filename Value="src/feedback/TwLazUI.Toast.pas"/>
+        <UnitName Value="TwLazUI.Toast"/>
+      </Item>
+      <Item>
+        <Filename Value="src/inputs/TwLazUI.ListBox.pas"/>
+        <UnitName Value="TwLazUI.ListBox"/>
+      </Item>
+      <Item>
+        <Filename Value="src/inputs/TwLazUI.ComboBox.pas"/>
+        <UnitName Value="TwLazUI.ComboBox"/>
+      </Item>
+      <Item>
+        <Filename Value="src/inputs/TwLazUI.TrackBar.pas"/>
+        <UnitName Value="TwLazUI.TrackBar"/>
+      </Item>
+      <Item>
+        <Filename Value="src/navigation/TwLazUI.TabControl.pas"/>
+        <UnitName Value="TwLazUI.TabControl"/>
+      </Item>
+      <Item>
+        <Filename Value="src/navigation/TwLazUI.Breadcrumb.pas"/>
+        <UnitName Value="TwLazUI.Breadcrumb"/>
+      </Item>
+      <Item>
+        <Filename Value="src/layout/TwLazUI.Accordion.pas"/>
+        <UnitName Value="TwLazUI.Accordion"/>
+      </Item>
+      <Item>
+        <Filename Value="src/layout/TwLazUI.Sidebar.pas"/>
+        <UnitName Value="TwLazUI.Sidebar"/>
+      </Item>
+      <Item>
+        <Filename Value="src/data/TwLazUI.StringGrid.pas"/>
+        <UnitName Value="TwLazUI.StringGrid"/>
+      </Item>
+      <Item>
+        <Filename Value="src/overlays/TwLazUI.ModalOverlay.pas"/>
+        <UnitName Value="TwLazUI.ModalOverlay"/>
+      </Item>
+      <Item>
+        <Filename Value="src/overlays/TwLazUI.Tooltip.pas"/>
+        <UnitName Value="TwLazUI.Tooltip"/>
+      </Item>
+      <Item>
+        <Filename Value="src/overlays/TwLazUI.PopupMenu.pas"/>
+        <UnitName Value="TwLazUI.PopupMenu"/>
+      </Item>
+      <Item>
+        <Filename Value="src/buttons/TwLazUI.Button.pas"/>
+        <UnitName Value="TwLazUI.Button"/>
+      </Item>
+      <Item>
+        <Filename Value="src/buttons/TwLazUI.CheckBox.pas"/>
+        <UnitName Value="TwLazUI.CheckBox"/>
+      </Item>
+      <Item>
+        <Filename Value="src/buttons/TwLazUI.RadioButton.pas"/>
+        <UnitName Value="TwLazUI.RadioButton"/>
+      </Item>
+      <Item>
+        <Filename Value="src/buttons/TwLazUI.Switch.pas"/>
+        <UnitName Value="TwLazUI.Switch"/>
+      </Item>
+      <Item>
+        <Filename Value="src/twlazui_components.rc"/>
+        <Type Value="Text"/>
+      </Item>
+      <Item>
+        <Filename Value="src/twlazui_reg.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="TWLazUI_reg"/>
+      </Item>
+      <Item>
+        <Filename Value="src/layout/twlazui.panel.pas"/>
+        <UnitName Value="TwLazUI.Panel"/>
+      </Item>
+      <Item>
+        <Filename Value="src/display/twlazui.slabel.pas"/>
+        <UnitName Value="TwLazUI.SLabel"/>
+      </Item>
+    </Files>
+    <RequiredPkgs>
+      <Item>
+        <PackageName Value="BGRABitmapPack"/>
+      </Item>
+      <Item>
+        <PackageName Value="LCL"/>
+      </Item>
+      <Item>
+        <PackageName Value="FCL"/>
+      </Item>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>
