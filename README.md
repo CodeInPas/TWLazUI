@@ -82,10 +82,6 @@ Before installing this package, ensure your Lazarus meets the following requirem
 ## 🚀 Installation Guide
 
 1. Download or *Clone* this repository to your computer:
-
-
-```
-
 2. Open the **Lazarus IDE** application.
 3. Go to the **Package** menu -> **Open Package File (.lpk)...**
 4. Locate and select the `TWLazUI_components.lpk` file from the folder you just downloaded.
