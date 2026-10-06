@@ -104,6 +104,17 @@ Use the **Object Inspector** to modify properties such as:
 
 ---
 
+## ☕ Support the Project
+
+If you find **FhazEditor** helpful and want to support its ongoing development, consider buying me a coffee or sending a tip. Any support is deeply appreciated!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Ko-fi.com/ainovasinusantara)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KangOz)
+
+> **💡 Your support keeps the momentum going!**  
+> Every contribution directly fuels my passion, energy, and motivation to continuously build, maintain, and release even more useful open-source desktop applications for the developer community.
+
+
 ## 📄 License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this library for both personal and commercial projects. See the `LICENSE` file for more information.
